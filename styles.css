@@ -1,0 +1,17 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(145, 184, 142);  
+}
+
+.largeParagraphs {
+    font-size: 2em;
+    color: black;
+    font-weight: bolder;
+    width: min-content;
+}
+
+.largeParagraphs:hover {
+    color: red;
+}
+
+
